@@ -18,6 +18,7 @@ class Constants {
   static const String accessToken = 'accessToken';
   static const String refreshToken = 'refreshToken';
 
+
   static const String theme = 'AppTheme';
   static const String locale = 'locale';
   static const String appTheme = 'appTheme';
