@@ -22,7 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 [flutter-architecture-blueprints](https://github.com/wasabeef/flutter-architecture-blueprints)
 
 
-
 #### 命令
 flutter packages pub run build_runner build
 
