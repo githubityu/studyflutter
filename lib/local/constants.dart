@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 @immutable
 class Constants {
-  static const String rootUrl = "http://app.cuppe.org/";
+  static const String rootUrl = "";
   static const String endpoint = "${rootUrl}index.php?r=default/";
   static const String newsUrl = "${endpoint}homepage/newsShow&id=";
   static const String sysResultUrl =endpoint+"tracesource/code_tracepro&my_lot_number=";
