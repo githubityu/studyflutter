@@ -28,15 +28,15 @@ flutter packages pub run build_runner build
 #### 三方库
 
 
-- [hive_flutter](https://pub.flutter-io.cn/packages/hive_flutter)   本地存储
+- [hive_flutter](https://pub.flutter-io.cn/packages/hive_flutter)  本地存储
 
 - [retrofit](https://pub.flutter-io.cn/packages/retrofit) 网络请求  
 
 - [freezed_annotation](https://pub.flutter-io.cn/packages/freezed_annotation) 生成model  
 
 - [auto_route](https://pub.flutter-io.cn/packages/auto_route) 路由  
-
-- [hooks_riverpod](https://pub.flutter-io.cn/packages/hooks_riverpod) 钩子和状态管理  
+ 
+- [hooks_riverpod](https://pub.flutter-io.cn/packages/hooks_riverpod) 钩子和状态管理 
 
 
 
